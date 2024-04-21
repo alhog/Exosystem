@@ -75,18 +75,19 @@ Through its modular and composable architecture, the Exotic Basket leverages cut
 Moreover, by integrating with a comprehensive renewable energy ecosystem, the Exotic Basket project not only addresses the energy consumption challenges but also positions itself as a sustainable and environmentally responsible investment vehicle. By harnessing the power of renewable energy sources, intelligent energy distribution, and dynamic load management, the project aims to create a self-sustaining and highly optimized energy infrastructure, aligning financial incentives with environmental stewardship.
 
 This technical whitepaper delves into the intricacies of the Exotic Basket project, providing a comprehensive overview of its core components, modular architecture, renewable energy ecosystem integration, autonomous rebalancing mechanisms, and advanced technologies. It serves as a blueprint for understanding the project's vision, technical implementations, and the potential impact it can have on the decentralized ecosystem and the broader financial landscape.
-I understand the importance of having a clear visual representation that encapsulates the various components and the seamless integration of fintech, energy, and computer science within the Exosystem project. Here's an attempt to create a visual representation using ASCII art:
+
+### Simplified Architecture
 
 ```
                               ┌─────────────────────────────┐
                               │        Exotic Basket        │
-                              │      (Investment Vehicle)    │
-                              └─────────────┬─────────────────┘
+                              │      (Investment Vehicle)   │
+                              └─────────────┬───────────────┘
                                             │
                                             ▼
                         ┌───────────────────────────────────────────┐
-                        │              Exosystem Architecture        │
-                        │                                            │
+                        │              Exosystem Architecture       │
+                        │                                           │
                         │            ┌───────────────────┐          │
                         │            │   Decentralized   │          │
             ┌───────────┘            │     Governance    │          └────────────┐
@@ -106,9 +107,9 @@ I understand the importance of having a clear visual representation that encapsu
             │                          │     Mechanism       │                    │
             │                          └─────────┬───────────┘                    │
             │                                    │                                │
-            └──────────────────────────────┬────┴────────────────────────────────┘
-                                           │
-                                           ▼
+            └───────────────────────────────┬────┴────────────────────────────────┘
+                                            │
+                                            ▼
                             ┌─────────────────────────────────┐
                             │         Composable Circuits     │
                             │  - Modular Exotic Functions     │
