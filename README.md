@@ -194,7 +194,7 @@ The Exosystem project recognizes the importance of sustainability and environmen
 
 **3.1. Renewable Energy Sources**
 
-At the foundation of the ecosystem lies a diverse array of renewable energy sources, including solar, wind, hydroelectric, and other emerging technologies. These sources are carefully integrated and harnessed to provide a sustainable and reliable energy supply for the various components within the ecosystem.
+At the foundation of the Exosystem lies a diverse array of renewable energy sources, including solar, wind, hydroelectric, and other emerging technologies. These sources are carefully integrated and harnessed to provide a sustainable and reliable energy supply for the various components within the ecosystem.
 
 The renewable energy sources are represented as modular circuits, adhering to standardized interfaces and communication protocols. These modular circuits encapsulate the specific functionality and characteristics of their respective energy sources, including energy generation models, performance metrics, and real-time monitoring capabilities.
 
@@ -232,19 +232,19 @@ The energy trading platform operates on a decentralized and transparent blockcha
 
 The platform leverages smart contracts to automate and govern the energy trading processes, including the execution of trades, settlement of payments, and enforcement of predetermined rules and conditions. These smart contracts ensure transparency, immutability, and adherence to predefined agreements, fostering trust and fairness within the energy trading ecosystem.
 
-Furthermore, the energy trading platform can integrate with external energy markets, enabling the buying and selling of energy assets beyond the boundaries of the Exotic Basket ecosystem. This interoperability expands the potential revenue streams and provides additional liquidity for energy assets, further incentivizing the adoption of renewable energy sources and sustainable practices.
+Furthermore, the energy trading platform can integrate with external energy markets, enabling the buying and selling of energy assets beyond the boundaries of the Exosystem's ecosystem. This interoperability expands the potential revenue streams and provides additional liquidity for energy assets, further incentivizing the adoption of renewable energy sources and sustainable practices.
 
-Through the seamless integration of renewable energy sources, intelligent energy distribution, advanced storage solutions, and the energy trading platform, the Exotic Basket project establishes a self-sustaining and highly optimized energy infrastructure. This infrastructure not only powers the core investment vehicle but also aligns financial incentives with environmental stewardship, positioning the project as a pioneering force in the pursuit of sustainable and responsible growth within the decentralized ecosystem.
+Through the seamless integration of renewable energy sources, intelligent energy distribution, advanced storage solutions, and the energy trading platform, the Exosystem project establishes a self-sustaining and highly optimized energy infrastructure. This infrastructure not only powers the core investment vehicle but also aligns financial incentives with environmental stewardship, positioning the project as a pioneering force in the pursuit of sustainable and responsible growth within the decentralized ecosystem.
 
 ### **4. Autonomous Rebalancing Mechanism**
 
-The Autonomous Rebalancing Mechanism (ARM) is a critical component of the Exosystem, responsible for ensuring the dynamic optimization and continuous relevance of the Exotic Basket's composition. By seamlessly integrating with the renewable energy ecosystem and leveraging cutting-edge technologies, the ARM enables data-driven decision-making and proactive adaptation to the ever-evolving decentralized landscape.
+The Autonomous Rebalancing Mechanism (ARM) is a critical component of the Exosystem, responsible for ensuring the dynamic optimization and continuous relevance of the Exosystem's composition. By seamlessly integrating with the renewable energy ecosystem and leveraging cutting-edge technologies, the ARM enables data-driven decision-making and proactive adaptation to the ever-evolving decentralized landscape.
 
 **4.1. Decentralized Energy Distribution**
 
-The ARM leverages the central energy grid's intelligent energy management algorithms and real-time monitoring capabilities to dynamically allocate energy resources to various components and sectors within the ecosystem. This decentralized energy distribution strategy ensures that computational resources are efficiently allocated based on the demands of the rebalancing process and the profitability of energy-intensive applications.
+The ARM leverages the central energy grid's intelligent energy management algorithms and real-time monitoring capabilities to dynamically allocate energy resources to various components and sectors within the Exosystem. This decentralized energy distribution strategy ensures that computational resources are efficiently allocated based on the demands of the rebalancing process and the profitability of energy-intensive applications.
 
-For instance, during periods of high rebalancing computation demands, the ARM can prioritize the allocation of energy resources to dedicated computing clusters or high-performance computing (HPC) facilities within the ecosystem. Conversely, when rebalancing computations are less intensive, the ARM can redirect energy resources to other sectors, such as cryptocurrency mining or cloud storage operations, maximizing overall profitability and resource utilization.
+For instance, during periods of high rebalancing computation demands, the ARM can prioritize the allocation of energy resources to dedicated computing clusters or high-performance computing (HPC) facilities within the Exosystem. Conversely, when rebalancing computations are less intensive, the ARM can redirect energy resources to other sectors, such as cryptocurrency mining or cloud storage operations, maximizing overall profitability and resource utilization.
 
 **4.2. Integrating Energy-Intensive Applications**
 
@@ -256,7 +256,7 @@ By dynamically allocating energy resources to these applications based on their 
 
 The ARM leverages the distributed ledger technology (DLT) infrastructure and smart contracts to encode the rebalancing logic, rules, and algorithms in a transparent and tamper-proof manner. These smart contracts act as the backbone of the autonomous rebalancing process, ensuring that the execution of the algorithms and the resulting decisions are immutable, auditable, and free from human intervention or manipulation.
 
-The rebalancing algorithms, performance evaluation metrics, asset selection criteria, and asset weighting strategies are encoded as self-executing smart contracts, deployed on the DLT network. These smart contracts can interact with various data sources, such as on-chain metrics, off-chain data feeds, and sensor network data, to make informed decisions about the composition and rebalancing of the Exotic Basket.
+The rebalancing algorithms, performance evaluation metrics, asset selection criteria, and asset weighting strategies are encoded as self-executing smart contracts, deployed on the DLT network. These smart contracts can interact with various data sources, such as on-chain metrics, off-chain data feeds, and sensor network data, to make informed decisions about the composition and rebalancing of the Exosystem.
 
 Furthermore, the DLT network facilitates secure and auditable data exchange between the various components involved in the rebalancing process, ensuring data integrity and enabling trust in the decision-making process.
 
@@ -270,11 +270,11 @@ The sensor network data is securely transmitted and stored on the DLT network, e
 
 **4.5. Machine Learning and Predictive Analytics**
 
-At the core of the ARM lies a powerful machine learning and predictive analytics engine, responsible for analyzing the vast amounts of data collected from various sources, including the sensor network, market data, and on-chain metrics. This engine employs advanced algorithms and models to identify patterns, trends, and insights that can inform the decision-making processes related to the Exotic Basket's composition and rebalancing strategies.
+At the core of the ARM lies a powerful machine learning and predictive analytics engine, responsible for analyzing the vast amounts of data collected from various sources, including the sensor network, market data, and on-chain metrics. This engine employs advanced algorithms and models to identify patterns, trends, and insights that can inform the decision-making processes related to the Exosystem's composition and rebalancing strategies.
 
 The machine learning models can leverage techniques such as time-series analysis, natural language processing (NLP), and deep learning to extract valuable insights from structured and unstructured data sources. These models can identify emerging trends, potential disruptors, sentiment shifts, and other signals that may indicate the need for rebalancing or asset selection adjustments.
 
-Furthermore, the predictive analytics capabilities enable the ARM to forecast future performance, user adoption, and market dynamics, providing valuable inputs for optimizing the Exotic Basket's composition and weighting strategies. By combining historical data, real-time metrics, and advanced modeling techniques, the ARM can proactively adapt to the rapidly evolving decentralized landscape, ensuring that the Exotic Basket remains a cutting-edge and relevant investment vehicle.
+Furthermore, the predictive analytics capabilities enable the ARM to forecast future performance, user adoption, and market dynamics, providing valuable inputs for optimizing the Exosystem's composition and weighting strategies. By combining historical data, real-time metrics, and advanced modeling techniques, the ARM can proactively adapt to the rapidly evolving decentralized landscape, ensuring that the Exosystem remains a cutting-edge and relevant investment vehicle.
 
 **4.6. Distributed Computing and Edge Processing**
 
@@ -294,7 +294,7 @@ Participants who contribute computational resources, data, or participate in the
 
 The tokenized incentive structure encourages the deployment of energy-efficient computing resources, the sharing of sensor data, and active participation in the decentralized governance processes. By incentivizing these activities, the Exosystem promotes a virtuous cycle of innovation, sustainability, and continuous improvement within the autonomous rebalancing mechanism.
 
-Through the seamless integration of decentralized energy distribution, energy-intensive applications, distributed ledger technology, sensor networks, machine learning, distributed computing, and tokenized incentives, the Autonomous Rebalancing Mechanism enables the Exosystem to continuously optimize and adapt the Exotic Basket's composition, ensuring its relevance and alignment with the most promising opportunities within the decentralized ecosystem.
+Through the seamless integration of decentralized energy distribution, energy-intensive applications, distributed ledger technology, sensor networks, machine learning, distributed computing, and tokenized incentives, the Autonomous Rebalancing Mechanism enables the Exosystem to continuously optimize and adapt the Exosystem's composition, ensuring its relevance and alignment with the most promising opportunities within the decentralized ecosystem.
 
 ### 5. Modular Architecture and Composable Circuits
 
