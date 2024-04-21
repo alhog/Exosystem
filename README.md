@@ -3,7 +3,7 @@
 1. Introduction
    - Overview of the decentralized ecosystem
    - Challenges and opportunities
-   - The Exotic Basket vision and value proposition
+   - The Exosystem vision and value proposition
 
 2. Exotic Basket: The Core Investment Vehicle
    - Modular Basket Composition
