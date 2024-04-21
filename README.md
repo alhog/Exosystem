@@ -1,0 +1,2 @@
+# Exosystem
+Decentralized exotic ecosystem 
