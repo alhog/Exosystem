@@ -96,7 +96,7 @@ This technical whitepaper delves into the intricacies of the Exotic Basket proje
             ▼                                    ▼                               ▼
   ┌─────────────────┐                  ┌─────────────────────┐          ┌─────────────────┐
   │                 │                  │      Renewable      │          │                 │
-  │   Circuit       │                  │        Energy       │          │  User Experience │
+  │   Circuit       │                  │        Energy       │          │ User Experience │
   │  Marketplaces   │                  │      Ecosystem      │          │      Platform   │
   └─────────┬───────┘                  └─────────┬───────────┘          └─────────┬───────┘
             │                                    │                                │
