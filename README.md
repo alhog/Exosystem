@@ -138,17 +138,17 @@ At the bottom of the diagram, the **Composable Circuits** section represents the
 
 ### **2. Exotic Basket: The Core Investment Vehicle**
 
-At the heart of the Exotic Basket project lies the eponymous investment vehicle, a curated and dynamically managed portfolio of promising decentralized applications (dApps) within the decentralized ecosystem. This section delves into the technical aspects and innovative features that distinguish the Exotic Basket as a cutting-edge investment solution.
+At the heart of the Exosystem project lies the eponymous investment vehicle, a curated and dynamically managed portfolio of promising decentralized applications (dApps) within the decentralized ecosystem. This section delves into the technical aspects and innovative features that distinguish the Exotic Basket as a cutting-edge investment solution.
 
 **2.1. Modular Basket Composition**
 
-The Exotic Basket embraces a modular architecture, where individual dApps or assets are represented as self-contained modules or circuits. These modular circuits adhere to standardized interfaces and communication protocols, enabling seamless integration, interoperability, and scalability within the basket's composition.
+The Exosystem embraces a modular architecture, where individual dApps or assets are represented as self-contained modules or circuits. These modular circuits adhere to standardized interfaces and communication protocols, enabling seamless integration, interoperability, and scalability within the basket's composition.
 
 Each modular circuit encapsulates a specific dApp or asset, exposing well-defined APIs that allow the Exotic Basket to interact with it, retrieve relevant data, and perform operations such as staking, unstaking, or adjusting weightings. This modular design promotes loose coupling, ensuring that changes or updates to one circuit do not affect the others, enhancing maintainability and reducing the risk of breaking changes.
 
 **2.2. Composable Basket Building**
 
-Building upon the modular architecture, the Exotic Basket introduces a powerful composable basket building feature, empowering users to create custom baskets tailored to their unique preferences and investment strategies. Through a user-friendly interface or composition toolkit, users can visually construct their desired basket compositions by selecting and arranging modular circuits representing various dApps or assets.
+Building upon the modular architecture, the Exosystem introduces a powerful composable basket building feature, empowering users to create custom baskets tailored to their unique preferences and investment strategies. Through a user-friendly interface or composition toolkit, users can visually construct their desired basket compositions by selecting and arranging modular circuits representing various dApps or assets.
 
 The composition toolkit incorporates features such as drag-and-drop functionality, visual programming interfaces, or code-based composition tools, catering to different user preferences and technical proficiencies. Users can define custom weighting strategies, rebalancing rules, and exotic functions to be applied to their composed baskets, enabling personalized investment strategies aligned with their risk profiles and goals.
 
@@ -174,23 +174,23 @@ The weightings or ratios of the remaining dApps within the basket are adjusted t
 
 **2.6. Exotic Functions and Customization**
 
-To further differentiate the Exotic Basket and cater to diverse investor preferences, the project incorporates a range of exotic functions and customization options:
+To further differentiate the Exosystem and cater to diverse investor preferences, the project incorporates a range of exotic functions and customization options:
 
 **Composable Basket Building**: As discussed earlier, users can create their own customized baskets by selecting and combining individual dApp tokens or assets, defining their own criteria, weightings, and rebalancing rules.
 
 **Predictive Analytics and Machine Learning**: Advanced data analytics, machine learning algorithms, and predictive modeling techniques are leveraged to enhance the dApp selection, weighting, and rebalancing processes. These techniques enable the identification of emerging trends and potentially disruptive dApps, ensuring that the Exotic Basket remains at the forefront of innovation within the decentralized ecosystem.
 
-**Tokenized Incentives and Reward Mechanisms**: The Exotic Basket introduces tokenized incentives and reward mechanisms, incentivizing participation, engagement, and long-term commitment from stakeholders. These incentives, powered by the native token of the ecosystem, foster a vibrant and engaged community, aligning the interests of all participants.
+**Tokenized Incentives and Reward Mechanisms**: The Exosystem introduces tokenized incentives and reward mechanisms, incentivizing participation, engagement, and long-term commitment from stakeholders. These incentives, powered by the native token of the ecosystem, foster a vibrant and engaged community, aligning the interests of all participants.
 
-**Integration with Metaverse and Web3 Ecosystems**: Recognizing the potential of emerging technologies, the Exotic Basket explores opportunities to integrate with metaverse and Web3 ecosystems, providing utility beyond its investment value and positioning itself as a pioneer in these new frontiers.
+**Integration with Metaverse and Web3 Ecosystems**: Recognizing the potential of emerging technologies, the Exosystem explores opportunities to integrate with metaverse and Web3 ecosystems, providing utility beyond its investment value and positioning itself as a pioneer in these new frontiers.
 
 **Experimental Basket Compositions**: To foster innovation and exploration, the project facilitates the creation of experimental or thematic baskets focused on specific sectors, emerging technologies, or niche areas within the decentralized ecosystem. These experimental baskets serve as testing grounds for innovative selection criteria, weighting algorithms, or exotic functions, driving continuous improvement and pushing the boundaries of portfolio management strategies.
 
-Through its modular architecture, composable basket building capabilities, and exotic functions, the Exotic Basket provides investors with a highly flexible and customizable investment vehicle, tailored to their specific needs and preferences within the dynamic and ever-evolving decentralized ecosystem.
+Through its modular architecture, composable basket building capabilities, and exotic functions, the Exosystem provides investors with a highly flexible and customizable investment vehicle, tailored to their specific needs and preferences within the dynamic and ever-evolving decentralized ecosystem.
 
 ### **3. Renewable Energy Ecosystem Integration**
 
-The Exotic Basket project recognizes the importance of sustainability and environmental responsibility within the decentralized ecosystem. To address the energy-intensive nature of many dApps and the underlying blockchain infrastructure, the project introduces a seamless integration with a comprehensive renewable energy ecosystem. This section explores the technical aspects of this integration, highlighting the various components and innovative approaches to optimizing energy utilization and maximizing profitability.
+The Exosystem project recognizes the importance of sustainability and environmental responsibility within the decentralized ecosystem. To address the energy-intensive nature of many dApps and the underlying blockchain infrastructure, the project introduces a seamless integration with a comprehensive renewable energy ecosystem. This section explores the technical aspects of this integration, highlighting the various components and innovative approaches to optimizing energy utilization and maximizing profitability.
 
 **3.1. Renewable Energy Sources**
 
