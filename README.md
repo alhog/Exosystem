@@ -320,7 +320,7 @@ The Exosystem integrates various components of the renewable energy ecosystem, s
 
 Each energy component is represented as a self-contained module, adhering to standardized interfaces and communication protocols. This modular design promotes loose coupling, ensuring that changes or updates to one energy component do not affect the entire system, enhancing maintainability and reducing the risk of breaking changes.
 
-Additionally, the Exosystem incorporates microgrid architectures, enabling localized energy management and distribution within specific geographical regions or communities. These microgrids can operate autonomously or in coordination with the central energy grid, providing enhanced resilience, efficiency, and scalability to the overall energy infrastructure facilitated by the Exosystem.
+***Additionally, the Exosystem incorporates microgrid architectures, enabling localized energy management and distribution within specific geographical regions or communities.*** These microgrids can operate autonomously or in coordination with the central energy grid, providing enhanced resilience, efficiency, and scalability to the overall energy infrastructure facilitated by the Exosystem.
 
 **5.4. Composable Sensor Networks with Edge Computing**  
 
