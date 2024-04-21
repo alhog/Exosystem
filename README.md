@@ -1,6 +1,5 @@
 # Exosystem
-
-## Decentralized exotic ecosystem 
+***Decentralized Exotic Ecosystem (DEE)***
 1. Introduction
    - Overview of the decentralized ecosystem
    - Challenges and opportunities
